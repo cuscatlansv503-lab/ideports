@@ -1,0 +1,207 @@
+[
+  {
+    "id": "espn",
+    "nombre": "ESPN",
+    "imagen": ""
+  },
+  {
+    "id": "espn2",
+    "nombre": "ESPN 2",
+    "imagen": ""
+  },
+  {
+    "id": "espn3",
+    "nombre": "ESPN 3",
+    "imagen": ""
+  },
+  {
+    "id": "espn4",
+    "nombre": "ESPN 4",
+    "imagen": ""
+  },
+  {
+    "id": "espn5",
+    "nombre": "ESPN 5",
+    "imagen": ""
+  },
+  {
+    "id": "espn6",
+    "nombre": "ESPN 6",
+    "imagen": ""
+  },
+  {
+    "id": "espn7",
+    "nombre": "ESPN 7",
+    "imagen": ""
+  },
+  {
+    "id": "dsports",
+    "nombre": "DSports",
+    "imagen": ""
+  },
+  {
+    "id": "dsportsplus",
+    "nombre": "DSports Plus",
+    "imagen": ""
+  },
+  {
+    "id": "foxsports",
+    "nombre": "Fox Sports",
+    "imagen": ""
+  },
+  {
+    "id": "foxsports2",
+    "nombre": "Fox Sports 2",
+    "imagen": ""
+  },
+  {
+    "id": "foxsports3",
+    "nombre": "Fox Sports 3",
+    "imagen": ""
+  },
+  {
+    "id": "tntsports",
+    "nombre": "TNT Sports",
+    "imagen": ""
+  },
+  {
+    "id": "espnpremium",
+    "nombre": "ESPN Premium",
+    "imagen": ""
+  },
+  {
+    "id": "tycinternacional",
+    "nombre": "TyC Internacional",
+    "imagen": ""
+  },
+  {
+    "id": "liga1max",
+    "nombre": "Liga 1 Max",
+    "imagen": ""
+  },
+  {
+    "id": "movistar",
+    "nombre": "Movistar",
+    "imagen": ""
+  },
+  {
+    "id": "winsportsplus",
+    "nombre": "Win Sports Plus",
+    "imagen": ""
+  },
+  {
+    "id": "foxsportsmx",
+    "nombre": "Fox Sports MX",
+    "imagen": ""
+  },
+  {
+    "id": "foxsports2mx",
+    "nombre": "Fox Sports 2 MX",
+    "imagen": ""
+  },
+  {
+    "id": "foxsports3mx",
+    "nombre": "Fox Sports 3 MX",
+    "imagen": ""
+  },
+  {
+    "id": "foxsportspremium",
+    "nombre": "Fox Sports Premium",
+    "imagen": ""
+  },
+  {
+    "id": "espnmx",
+    "nombre": "ESPN MX",
+    "imagen": ""
+  },
+  {
+    "id": "espn2mx",
+    "nombre": "ESPN 2 MX",
+    "imagen": ""
+  },
+  {
+    "id": "espn3mx",
+    "nombre": "ESPN 3 MX",
+    "imagen": ""
+  },
+  {
+    "id": "espn4mx",
+    "nombre": "ESPN 4 MX",
+    "imagen": ""
+  },
+  {
+    "id": "azteca7",
+    "nombre": "Azteca 7",
+    "imagen": ""
+  },
+  {
+    "id": "canal5",
+    "nombre": "Canal 5",
+    "imagen": ""
+  },
+  {
+    "id": "tvc_deportes",
+    "nombre": "TVC Deportes",
+    "imagen": ""
+  },
+  {
+    "id": "azteca_deportes",
+    "nombre": "Azteca Deportes",
+    "imagen": ""
+  },
+  {
+    "id": "hisports",
+    "nombre": "Hi Sports",
+    "imagen": ""
+  },
+  {
+    "id": "espndeportes",
+    "nombre": "ESPN Deportes",
+    "imagen": ""
+  },
+  {
+    "id": "beinsport_xtra_espanol",
+    "nombre": "beIN Sports Xtra Español",
+    "imagen": ""
+  },
+  {
+    "id": "usanetwork",
+    "nombre": "USA Network",
+    "imagen": ""
+  },
+  {
+    "id": "premier1",
+    "nombre": "Premier 1",
+    "imagen": ""
+  },
+  {
+    "id": "premier2",
+    "nombre": "Premier 2",
+    "imagen": ""
+  },
+  {
+    "id": "premier3",
+    "nombre": "Premier 3",
+    "imagen": ""
+  },
+  {
+    "id": "laligatvbar",
+    "nombre": "LaLiga TV Bar",
+    "imagen": ""
+  },
+  {
+    "id": "espn1_nl",
+    "nombre": "ESPN 1 NL",
+    "imagen": ""
+  },
+  {
+    "id": "espn2_nl",
+    "nombre": "ESPN 2 NL",
+    "imagen": ""
+  },
+  {
+    "id": "espn3_nl",
+    "nombre": "ESPN 3 NL",
+    "imagen": ""
+  }
+]
