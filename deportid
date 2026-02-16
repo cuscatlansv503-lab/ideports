@@ -37,7 +37,12 @@
   {
     "id": "dsports",
     "nombre": "DSports",
-    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138107_dark_360w_270h.png"
+    "imagen": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
+  },
+ {
+    "id": "dsports2",
+    "nombre": "DSports2",
+    "imagen": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
   },
   {
     "id": "dsportsplus",
@@ -62,7 +67,7 @@
   {
     "id": "tntsports",
     "nombre": "TNT Sports",
-    "imagen": ""
+    "imagen": "https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/603.png"
   },
   {
     "id": "espnpremium",
@@ -83,6 +88,11 @@
     "id": "movistar",
     "nombre": "Movistar",
     "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114665_dark_360w_270h.png"
+  },
+ {
+    "id": "winsports",
+    "nombre": "winsports",
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87031_dark_360w_270h.png"
   },
   {
     "id": "winsportsplus",
@@ -203,5 +213,20 @@
     "id": "espn3_nl",
     "nombre": "ESPN 3 NL",
     "imagen": "https://netplay.sv/img/multimedia/live/canales/canal-138.png"
+  },
+{
+    "id": "ecdf_ligapro",
+    "nombre": "ecdf",
+    "imagen": ""
+  },
+{
+    "id": "foxdeportes",
+    "nombre": "foxdeportes",
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15377_dark_360w_270h.png"
+  },
+{
+    "id": "tudn",
+    "nombre": "tudn",
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png"
   }
 ]
