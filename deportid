@@ -2,62 +2,62 @@
   {
     "id": "espn",
     "nombre": "ESPN",
-    "imagen": ""
+    "imagen": "https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png"
   },
   {
     "id": "espn2",
     "nombre": "ESPN 2",
-    "imagen": ""
+    "imagen": "https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn2-network-logo.svg"
   },
   {
     "id": "espn3",
     "nombre": "ESPN 3",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png"
   },
   {
     "id": "espn4",
     "nombre": "ESPN 4",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png"
   },
   {
     "id": "espn5",
     "nombre": "ESPN 5",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png"
   },
   {
     "id": "espn6",
     "nombre": "ESPN 6",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99633_dark_360w_270h.png"
   },
   {
     "id": "espn7",
     "nombre": "ESPN 7",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91513_dark_360w_270h.png"
   },
   {
     "id": "dsports",
     "nombre": "DSports",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138107_dark_360w_270h.png"
   },
   {
     "id": "dsportsplus",
     "nombre": "DSports Plus",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107455_dark_360w_270h.png"
   },
   {
     "id": "foxsports",
     "nombre": "Fox Sports",
-    "imagen": ""
+    "imagen": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTc3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
   },
   {
     "id": "foxsports2",
     "nombre": "Fox Sports 2",
-    "imagen": ""
+    "imagen": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzM1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
   },
   {
     "id": "foxsports3",
     "nombre": "Fox Sports 3",
-    "imagen": ""
+    "imagen": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzM2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
   },
   {
     "id": "tntsports",
@@ -67,12 +67,12 @@
   {
     "id": "espnpremium",
     "nombre": "ESPN Premium",
-    "imagen": ""
+    "imagen": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTc5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
   },
   {
     "id": "tycinternacional",
     "nombre": "TyC Internacional",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png"
   },
   {
     "id": "liga1max",
@@ -82,126 +82,126 @@
   {
     "id": "movistar",
     "nombre": "Movistar",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114665_dark_360w_270h.png"
   },
   {
     "id": "winsportsplus",
     "nombre": "Win Sports Plus",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112483_dark_360w_270h.png"
   },
   {
     "id": "foxsportsmx",
     "nombre": "Fox Sports MX",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png"
   },
   {
     "id": "foxsports2mx",
     "nombre": "Fox Sports 2 MX",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png"
   },
   {
     "id": "foxsports3mx",
     "nombre": "Fox Sports 3 MX",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png"
   },
   {
     "id": "foxsportspremium",
     "nombre": "Fox Sports Premium",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png"
   },
   {
     "id": "espnmx",
     "nombre": "ESPN MX",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png"
   },
   {
     "id": "espn2mx",
     "nombre": "ESPN 2 MX",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png"
   },
   {
     "id": "espn3mx",
     "nombre": "ESPN 3 MX",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png"
   },
   {
     "id": "espn4mx",
     "nombre": "ESPN 4 MX",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png"
   },
   {
     "id": "azteca7",
     "nombre": "Azteca 7",
-    "imagen": ""
+    "imagen": "http://x.playerlatino.live/azteca7.png"
   },
   {
     "id": "canal5",
     "nombre": "Canal 5",
-    "imagen": ""
+    "imagen": "https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5-hd_m.png"
   },
   {
     "id": "tvc_deportes",
     "nombre": "TVC Deportes",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57580_dark_360w_270h.png"
   },
   {
     "id": "azteca_deportes",
     "nombre": "Azteca Deportes",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s141773_dark_360w_270h.png"
   },
   {
     "id": "hisports",
     "nombre": "Hi Sports",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s144778_dark_360w_270h.png"
   },
   {
     "id": "espndeportes",
     "nombre": "ESPN Deportes",
-    "imagen": ""
+    "imagen": "https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-deportes-network-logo.png"
   },
   {
     "id": "beinsport_xtra_espanol",
     "nombre": "beIN Sports Xtra Español",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76950_dark_360w_270h.png"
   },
   {
     "id": "usanetwork",
     "nombre": "USA Network",
-    "imagen": ""
+    "imagen": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjYzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
   },
   {
     "id": "premier1",
     "nombre": "Premier 1",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98136_dark_360w_270h.png"
   },
   {
     "id": "premier2",
     "nombre": "Premier 2",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98136_dark_360w_270h.png"
   },
   {
     "id": "premier3",
     "nombre": "Premier 3",
-    "imagen": ""
+    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98136_dark_360w_270h.png"
   },
   {
     "id": "laligatvbar",
     "nombre": "LaLiga TV Bar",
-    "imagen": ""
+    "imagen": "https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png"
   },
   {
     "id": "espn1_nl",
     "nombre": "ESPN 1 NL",
-    "imagen": ""
+    "imagen": "https://netplay.sv/img/multimedia/live/canales/canal-23.png"
   },
   {
     "id": "espn2_nl",
     "nombre": "ESPN 2 NL",
-    "imagen": ""
+    "imagen": "https://netplay.sv/img/multimedia/live/canales/canal-24.png"
   },
   {
     "id": "espn3_nl",
     "nombre": "ESPN 3 NL",
-    "imagen": ""
+    "imagen": "https://netplay.sv/img/multimedia/live/canales/canal-138.png"
   }
 ]
