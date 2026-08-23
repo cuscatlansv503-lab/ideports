@@ -180,19 +180,19 @@
     "imagen": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjYzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
   },
   {
-    "id": "premier1",
-    "nombre": "Premier 1",
-    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98136_dark_360w_270h.png"
+    "id": "espndeportes",
+    "nombre": "espndeportes",
+    "imagen": "https://m3ukodi.com/site/logos_searchs/logo_serve.php?id=5771"
   },
   {
-    "id": "premier2",
-    "nombre": "Premier 2",
-    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98136_dark_360w_270h.png"
+    "id": "telemundo",
+    "nombre": "telemundo",
+    "imagen": "https://m3ukodi.com/site/logos_searchs/logo_serve.php?id=92"
   },
   {
-    "id": "premier3",
-    "nombre": "Premier 3",
-    "imagen": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98136_dark_360w_270h.png"
+    "id": "universo",
+    "nombre": "universo",
+    "imagen": "https://m3ukodi.com/site/logos_searchs/logo_serve.php?id=3108"
   },
   {
     "id": "laligatvbar",
